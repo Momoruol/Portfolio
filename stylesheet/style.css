@@ -1,0 +1,19 @@
+#Momo{
+  width: 500px;
+}
+hr{
+  margin-top: 80px;
+}
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.social-link {
+  text-decoration: none;
+}
+
+#contact{
+  margin: 15px;
+}
